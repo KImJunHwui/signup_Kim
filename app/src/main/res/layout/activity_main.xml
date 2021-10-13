@@ -7,6 +7,7 @@
     android:orientation="vertical"
     android:padding="20dp"
     android:gravity="top"
+    android:background="#FFFF00"
     tools:context=".MainActivity">
 
 <LinearLayout
